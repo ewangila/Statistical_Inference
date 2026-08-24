@@ -31,6 +31,13 @@ A retail chain wants to understand customer engagement with loyalty promotions (
 
 ---
 
+### 3. Customer Retention at DataFlow (Proportions Lab)
+You’ve joined DataFlow, a SaaS company that provides data visualization tools. The customer success team has been piloting a new onboarding program to improve 3-month retention. Your job is to estimate retention rates for both programs and test whether the new program delivers a statistically significant improvement.
+
+- **Traditional onboarding:** 180 retained / 240 participants (75.0%)
+- **New onboarding:** 210 retained / 260 participants (80.8%)
+- **Primary methods:** 95% confidence intervals for each proportion + two-sample test for the difference in retention rates
+
 ## Project Structure
 
 ```text
