@@ -9,7 +9,7 @@ Jupyter notebooks for classical statistical inference covering **means**, **prop
 | Notebook | Focus | Scenario | Key methods |
 |----------|--------|----------|-------------|
 | `stats_infer_mean_lab.ipynb` | Inference for means | Coral genotype growth for reef restoration | One-way ANOVA, Tukey’s HSD, η² |
-| `stats_infer_proportion_lab.ipynb` | Inference for proportions | (Proportion-based research questions) | Proportion tests / confidence intervals |
+| `stats_infer_proportion_lab.ipynb` | Inference for proportions | SaaS customer retention: new vs traditional onboarding at DataFlow | Proportion tests / confidence intervals |
 | `stats_infer_cat_lab.ipynb` | Categorical data | Retail loyalty & promotional engagement | χ² tests of independence / goodness-of-fit |
 
 ---
