@@ -55,21 +55,18 @@ Statistical_Inference/
 
 ### Install
 
-```
-bash
+```Bash
 git clone https://github.com/ewangila/Statistical_Inference.git
 cd Statistical_Inference
 pip install -r requirements.txt
 ```
 ### Run the notebooks
 
-```
-Bash
+```Bash
 jupyter notebook
 ```
 or
-```
-Bash
+```Bash
 jupyter lab
 ```
 Open any of the three .ipynb files and run cells top-to-bottom.
@@ -78,7 +75,7 @@ Data files are loaded relative to the notebook (or from the data/ folder — adj
 
 ### Dependencies
 
-```
+```text
 pandas>=1.3.0
 numpy>=1.20.0
 scipy>=1.7.0
